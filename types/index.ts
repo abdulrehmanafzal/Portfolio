@@ -4,7 +4,6 @@ export interface Project {
   description: string;
   techStack: string[];
   liveUrl: string;
-  githubUrl: string;
   image?: string;
 }
 
@@ -16,6 +15,6 @@ export interface Skill {
 export interface Experience {
   role: string;
   company: string;
-  period: string;
   description: string[];
+  period?: string;
 }
