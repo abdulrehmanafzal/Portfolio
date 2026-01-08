@@ -124,7 +124,7 @@ Creating user experiences that people love.
         </motion.div>
 
         {/* Scroll Indicator */}
-        <motion.div
+        {/* <motion.div
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           transition={{ duration: 0.6, delay: 1.2 }}
@@ -147,7 +147,7 @@ Creating user experiences that people love.
               <path d="M19 14l-7 7m0 0l-7-7m7 7V3" />
             </svg>
           </motion.div>
-        </motion.div>
+        </motion.div> */}
       </div>
     </section>
   );
