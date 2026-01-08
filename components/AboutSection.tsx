@@ -33,7 +33,7 @@ export default function AboutSection() {
           About Me
         </h1>
         <p className="text-lg md:text-xl text-gray-300 dark:text-gray-700 max-w-3xl mx-auto leading-relaxed">
-          I'm a passionate frontend developer with a strong focus on creating beautiful, 
+        I&apos;m a passionate frontend developer with a strong focus on creating beautiful, 
           user-friendly web experiences. With expertise in modern JavaScript frameworks 
           and a keen eye for design, I transform complex requirements into elegant solutions.
         </p>

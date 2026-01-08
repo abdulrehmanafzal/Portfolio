@@ -53,7 +53,7 @@ export default function Hero() {
             transition={{ duration: 0.6, delay: 0.4 }}
             className="text-2xl md:text-3xl text-gray-200 dark:text-gray-800 mb-6 font-light"
           >
-            Hi, I'm <span className="font-bold text-white dark:text-gray-900">Abdulrehman Afzal</span>
+            {"Hi, I'm "}<span className="font-bold text-white dark:text-gray-900">Abdulrehman Afzal</span>
           </motion.p>
 
           <motion.p

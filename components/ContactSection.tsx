@@ -61,7 +61,7 @@ export default function ContactSection() {
           Get In Touch
         </h1>
         <p className="text-lg md:text-xl text-gray-300 dark:text-gray-700 max-w-3xl mx-auto">
-          Have a project in mind or want to collaborate? I'd love to hear from you.
+          {"Have a project in mind or want to collaborate? I'd love to hear from you."}
         </p>
       </motion.div>
 
@@ -75,7 +75,7 @@ export default function ContactSection() {
         >
           <div>
             <h2 className="text-2xl font-bold mb-4 text-white dark:text-gray-900">
-              Let's Connect
+              {"Let's Connect"}
             </h2>
             <p className="text-gray-300 dark:text-gray-700 mb-6">
               Feel free to reach out through the form or connect with me on social media.
